@@ -1,0 +1,5 @@
+2020-06-10 16:28:56,913 - my_logger - ERROR - This is an error
+2020-06-10 16:30:18,355 - my_logger - WARNING - This is a warning
+2020-06-10 16:30:18,356 - my_logger - ERROR - This is an error
+2020-06-10 16:32:22,483 - new_logger - WARNING - This is a warning
+2020-06-10 16:32:22,484 - new_logger - ERROR - This is an error

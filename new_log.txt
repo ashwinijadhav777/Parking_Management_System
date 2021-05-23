@@ -1,0 +1,165 @@
+INFO <module> This is an practise message
+INFO add_Data Add Rate clicked
+[INFO] : [add_Data] : Add Rate clicked
+[INFO] : [add_Data] : Admin selected to -->Add Vehicle Data(Parking Block, Slots, Rates of Parking)
+[INFO] : [add_Data] : Admin selected to -->Add Vehicle Data(Parking Block, Slots, Rates of Parking)
+[INFO] : [add_Data] : Admin selected to -->Add Vehicle Data(Parking Block, Slots, Rates of Parking)
+[INFO] : [add_Data] : Admin selected to -->Add Vehicle Data(Vehicle_type,Parking Block, Slots, Rates of Parking)
+[INFO] : [add_Data] : Admin selected to -->Add Vehicle Data(Vehicle_type,Parking Block, Slots, Rates of Parking)
+[INFO] : [add_Data] : Admin selected to -->Add Vehicle Data(Vehicle_type,Parking Block, Slots, Rates of Parking)
+[INFO] : [edit_Data] : Admin selected to -->Edit Vehicle Data
+[INFO] : [edit_Data] : Admin selected to -->Edit Vehicle Data
+[INFO] : [edit_Data] : Admin selected to -->Edit Vehicle Data
+[INFO] : [edit_Data] : Admin selected to Edit Vehicle Data
+[INFO] : [edit_Data] : Admin selected to Edit Vehicle Data
+[INFO] : [edit_Data] : Admin selected to Edit Vehicle Data
+[INFO] : [edit_Data] : Admin selected to Edit Vehicle Data
+[INFO] : [edit_Data] : Admin selected to Edit Vehicle Data
+[INFO] : [edit_Data] : Admin selected to Edit Vehicle Data
+[INFO] : [<module>] : This is an practise message
+[INFO] : [add_Data] : Admin selected to -->Add Vehicle Data(Vehicle_type,Parking Block, Slots, Rates of Parking)
+[INFO] : [add_Data] : Admin selected to -->Add Vehicle Data(Vehicle_type,Parking Block, Slots, Rates of Parking)
+[INFO] : [add_Data] : Admin selected to -->Add Vehicle Data(Vehicle_type,Parking Block, Slots, Rates of Parking)
+[INFO] : [add_Data] : Admin selected to -->Add Vehicle Data(Vehicle_type,Parking Block, Slots, Rates of Parking)
+[INFO] : [edit_Data] : Admin selected to Edit Vehicle Data
+[INFO] : [edit_Data] : Admin selected to -->Edit Vehicle Data
+[INFO] : [edit_Data] : Admin selected to -->Edit Vehicle Data
+[INFO] : [func_editData] : Admin has updated Bike data successfully!
+[INFO] : [add_Data] : Admin selected to -->Add Vehicle Data
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [viewSlots] : Occupied slots for Bike --> ['Slot 2', 'Slot 4', 'Slot 1', 'Slot 5', 'Slot 6']
+[INFO] : [send_SlotName] : Customer selected Slot 10 to park Bike
+[INFO] : [add_Customer_Info] : Customer with data:[] added to DB
+[INFO] : [add_CustomerInfo] : Customer: Shreya Parked in successfully!
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [viewSlots] : Occupied slots for Bike --> ['Slot 2', 'Slot 4', 'Slot 1', 'Slot 5', 'Slot 6', 'Slot 10']
+[INFO] : [send_SlotName] : Customer selected Slot 8 to park Bike
+[INFO] : [add_Customer_Info] : Customer with data:('Anjali', '7709443866', 'Bike', 'MH14A8362', '11-06-2020 07:01 PM', 'Slot 8') added to DB
+[INFO] : [add_CustomerInfo] : Customer: Anjali Parked in successfully!
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [viewSlots] : Occupied slots for Bike --> ['Slot 2', 'Slot 4', 'Slot 1', 'Slot 5', 'Slot 6', 'Slot 10', 'Slot 8']
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2', 'Slot 4', 'Slot 1', 'Slot 5', 'Slot 6', 'Slot 10', 'Slot 8']
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2', 'Slot 4', 'Slot 1', 'Slot 5', 'Slot 6', 'Slot 10', 'Slot 8']
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2', 'Slot 4', 'Slot 1', 'Slot 5', 'Slot 6', 'Slot 10', 'Slot 8']
+[INFO] : [send_SlotName] : Customer selected Slot 3 to park Bike
+[INFO] : [add_Customer_Info] : Customer with data:('Shubham', '9832456190', 'Bike', 'MH12S8899', '11-06-2020 11:56 PM', 'Slot 3') added to DB
+[INFO] : [add_CustomerInfo] : Customer: Shubham Parked in successfully!
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2', 'Slot 4', 'Slot 1', 'Slot 5', 'Slot 6', 'Slot 10', 'Slot 8', 'Slot 3']
+[INFO] : [send_SlotName] : Customer selected Slot 7 to park Bike
+[INFO] : [add_Customer_Info] : Customer with data:('Kiara', '9894362205', 'Bike', 'MH12K7433', '11-06-2020 11:57 PM', 'Slot 7') added to DB
+[INFO] : [add_CustomerInfo] : Customer: Kiara Parked in successfully!
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2', 'Slot 4', 'Slot 1', 'Slot 5', 'Slot 6', 'Slot 10', 'Slot 8', 'Slot 3', 'Slot 7']
+[INFO] : [send_SlotName] : Customer selected Slot 9 to park Bike
+[INFO] : [add_Customer_Info] : Customer with data:('Satyajit', '8055763255', 'Bike', 'MH14X1290', '12-06-2020 12:12 AM', 'Slot 9') added to DB
+[INFO] : [add_CustomerInfo] : Customer: Satyajit Parked in successfully!
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2', 'Slot 4', 'Slot 1', 'Slot 5', 'Slot 6', 'Slot 10', 'Slot 8', 'Slot 3', 'Slot 7', 'Slot 9']
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2', 'Slot 4', 'Slot 1', 'Slot 5', 'Slot 6', 'Slot 10', 'Slot 8', 'Slot 3', 'Slot 7', 'Slot 9']
+[INFO] : [sign_in] : Admin : ashwini logged in...
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2', 'Slot 4', 'Slot 1', 'Slot 5', 'Slot 6', 'Slot 10', 'Slot 8', 'Slot 3', 'Slot 7', 'Slot 9']
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [add_Customer_Info] : Customer with data:('', '', 'Bike', '', '14-06-2020 12:33 AM', '') added to DB
+[INFO] : [add_CustomerInfo] : Customer:  Parked in successfully!
+[INFO] : [add_Customer_Info] : Customer with data:('', '', 'Bike', '', '14-06-2020 12:44 AM', '') added to DB
+[INFO] : [add_CustomerInfo] : Customer:  Parked in successfully!
+[INFO] : [add_Customer_Info] : Customer with data:('', '', 'Bike', '', '14-06-2020 10:20 AM', '') added to DB
+[INFO] : [add_CustomerInfo] : Customer:  Parked in successfully!
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [is_SpaceAvailable] : Occupied slots for Bike --> []
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> []
+[INFO] : [send_SlotName] : Customer selected Slot 2 to park Bike
+[INFO] : [add_Customer_Info] : Customer with data:('Ashwini', '7709442898', 'Bike', 'MH12A7564', '14-06-2020 10:22 AM', 'Slot 2') added to DB
+[INFO] : [add_CustomerInfo] : Customer: Ashwini Parked in successfully!
+[INFO] : [View_customerInfo] : Admin clicked -->View Customer Info
+[INFO] : [edit_Data] : Admin clicked -->Edit Vehicle Data
+[INFO] : [viewData] : Admin Editing -->Bike Data (Vehicle_type,Parking Block, Slots, Rates of Parking)
+[INFO] : [func_editData] : Admin has updated Bike data successfully!
+[INFO] : [admin_Logout] : Admin logged out...
+[INFO] : [add_Data] : Admin clicked -->Add Vehicle Data
+[INFO] : [add_VehicleData] : Admin Adding -->Car Data (Vehicle_type,Parking Block, Slots, Rates of Parking)
+[INFO] : [add_VehicleData] : Car Data including Parking Rates saved to DB successfullly!
+[INFO] : [View_customerInfo] : Admin clicked -->View Customer Info
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [is_SpaceAvailable] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [is_SpaceAvailable] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [is_SpaceAvailable] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [send_SlotName] : Customer selected Slot 10 to park Bike
+[INFO] : [edit_Data] : Admin clicked -->Edit Vehicle Data
+[INFO] : [viewData] : Admin Editing -->Car Data (Vehicle_type,Parking Block, Slots, Rates of Parking)
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [is_SpaceAvailable] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [is_SpaceAvailable] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [is_SpaceAvailable] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [is_SpaceAvailable] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [send_SlotName] : Customer selected Slot 6 to park Bike
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [is_SpaceAvailable] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [send_SlotName] : Customer selected Slot 6 to park Bike
+[INFO] : [send_PaymentSignal] : Customer with ID:23 and vehicle_no:<PyQt5.QtWidgets.QLabel object at 0x0362DF10> has paid Rs:1017
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [is_SpaceAvailable] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [send_SlotName] : Customer selected Slot 6 to park Bike
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [is_SpaceAvailable] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [send_SlotName] : Customer selected Slot 6 to park Bike
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [is_SpaceAvailable] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [send_SlotName] : Customer selected Slot 6 to park Bike
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [is_SpaceAvailable] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [send_SlotName] : Customer selected Slot 6 to park Bike
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [is_SpaceAvailable] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [send_SlotName] : Customer selected Slot 6 to park Bike
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [is_SpaceAvailable] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2']
+[INFO] : [send_SlotName] : Customer selected Slot 6 to park Bike
+[INFO] : [add_Customer_Info] : Customer with data:('Viraj', '7972433301', 'Bike', 'MH14V4321', '22-06-2020 11:27 PM', 'Slot 6') added to DB
+[INFO] : [addCustomer_toDB] : Customer: Viraj Parked in successfully!
+[INFO] : [send_PaymentSignal] : Customer with ID:24 and vehicle_no:<PyQt5.QtWidgets.QLabel object at 0x01E29070> has paid Rs:30
+[INFO] : [send_PaymentSignal] : Customer with ID:24 and vehicle_no:<PyQt5.QtWidgets.QLabel object at 0x01E29070> has paid Rs:30
+[INFO] : [add_Customer_Info] : Customer with data:('Viraj', '7972433301', 'Bike', 'MH14V4321', '22-06-2020 11:27 PM', 'Slot 6') added to DB
+[INFO] : [addCustomer_toDB] : Customer: Viraj Parked in successfully!
+[INFO] : [send_PaymentSignal] : Customer with ID:25 and vehicle_no:<PyQt5.QtWidgets.QLabel object at 0x01E29898> has paid Rs:30
+[INFO] : [send_PaymentSignal] : Customer with ID:25 and vehicle_no:<PyQt5.QtWidgets.QLabel object at 0x01E29898> has paid Rs:30
+[INFO] : [add_Customer_Info] : Customer with data:('', '', 'Bike', '', '23-06-2020 12:00 AM', '') added to DB
+[INFO] : [addCustomer_toDB] : Customer:  Parked in successfully!
+[INFO] : [send_PaymentSignal] : Customer with ID:26 and vehicle_no:<PyQt5.QtWidgets.QLabel object at 0x01BEA5C8> has paid Rs:30
+[INFO] : [findSlot] : Customer is finding free slot...
+[INFO] : [is_SpaceAvailable] : Occupied slots for Bike --> ['Slot 2', 'Slot 6', 'Slot 6', '']
+[INFO] : [total_OccupiedSlots] : Occupied slots for Bike --> ['Slot 2', 'Slot 6', 'Slot 6', '']
+[INFO] : [send_SlotName] : Customer selected Slot 9 to park Bike
+[INFO] : [send_PaymentSignal] : Customer with ID:27 and vehicle_no:MH12M8765 has paid Rs:800
+[INFO] : [add_Customer_Info] : Customer with data:('Minakshi', '7740876543', 'Bike', 'MH12M8765', '23-06-2020 06:32 PM', 'Slot 9') added to DB
+[INFO] : [addCustomer_toDB] : Customer: Minakshi Parked in successfully!
